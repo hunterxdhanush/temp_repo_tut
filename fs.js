@@ -1,0 +1,1 @@
+const {readFileSyn,writeFileSync}=require('fs')
